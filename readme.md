@@ -1,4 +1,21 @@
-# Clone OG Animal Company (Xera Backend)
+## THIS VERSION IS BAD AND OUTDATED USE THE NEW ONE:
+https://github.com/Xera-Games-LLC/Xera-Company-Backend
+https://github.com/Xera-Games-LLC/Xera-Company-Backend
+https://github.com/Xera-Games-LLC/Xera-Company-Backend
+https://github.com/Xera-Games-LLC/Xera-Company-Backend
+
+
+
+
+
+
+
+
+
+
+
+
+## Old Readme for people who insist on using this shitty backend:
 
 CREDITS:
 
